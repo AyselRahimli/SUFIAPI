@@ -6,7 +6,7 @@ from io import BytesIO
 import os
 
 # Initialize OpenAI API
-openai.api_key = 'your-openai-api-key'
+openai.api_key = 'sk-0I2838aU53t6Pkp51bo8n6ag71RWn7y94veF1McznFAspK3l'
 
 # Initialize Google Cloud Text-to-Speech client
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path_to_your_google_credentials.json"
